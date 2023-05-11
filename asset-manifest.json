@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/clima-app/static/css/main.e97bc525.css",
+    "main.js": "/clima-app/static/js/main.eaf4d793.js",
+    "static/media/clear-night.jpg": "/clima-app/static/media/clear-night.5d3f8a65eb04b9dd510a.jpg",
+    "static/media/rain.jpg": "/clima-app/static/media/rain.78de501afa2c8dbbb2b8.jpg",
+    "static/media/clouds-night.jpg": "/clima-app/static/media/clouds-night.0e230d8f580da65898dc.jpg",
+    "static/media/snow.jpg": "/clima-app/static/media/snow.aa5397f93b24470a59e0.jpg",
+    "static/media/clouds-day.jpg": "/clima-app/static/media/clouds-day.8af7ff9882463124370c.jpg",
+    "static/media/thunderstorm.jpg": "/clima-app/static/media/thunderstorm.470b5ba96ea414c488ec.jpg",
+    "static/media/clear-day.jpg": "/clima-app/static/media/clear-day.d6681335505d4057387b.jpg",
+    "index.html": "/clima-app/index.html",
+    "main.e97bc525.css.map": "/clima-app/static/css/main.e97bc525.css.map",
+    "main.eaf4d793.js.map": "/clima-app/static/js/main.eaf4d793.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e97bc525.css",
+    "static/js/main.eaf4d793.js"
+  ]
+}
